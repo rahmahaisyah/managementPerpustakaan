@@ -1,5 +1,5 @@
 # Manajemen Perpustakaan Sederhana
-Program manajemen perpustakaan sederhana. Alikasi ini menyediakan fitur CRUD (Create, Read, Update, Delete) untuk buku dan anggota perpustakaan. Selain itu, aplikasi juga mendukung peminjaman dan pengembalian buku.
+Program manajemen perpustakaan sederhana. Alikasi ini menyediakan fitur Create, Read, Update untuk buku dan anggota perpustakaan. Selain itu, aplikasi juga mendukung peminjaman dan pengembalian buku.
 
 # Fitur
 1. **Daftar Buku:**  Menampilkan semua buku yang tersedia di perpustakaan.
